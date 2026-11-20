@@ -1,6 +1,6 @@
 # BrezyWeather Forecast Infrastructure: Three Agents
 
-Demo repository for the Code with Praveen video "Claude Code vs Copilot CLI vs Codex CLI for DevOps". The forecast storage Bicep with one `AGENTS.md` that Claude Code, GitHub Copilot CLI, and Codex CLI all read, and no tool-specific config. `comparison.md` holds the results.
+Demo repository for the Code with Praveen video "Claude Code vs. Copilot vs. Codex for DevOps". The forecast storage Bicep with one `AGENTS.md` that Claude Code, GitHub Copilot CLI, and Codex CLI all read, and no tool-specific config. `comparison.md` holds the results.
 
 ## Requirements
 
